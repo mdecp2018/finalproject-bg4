@@ -2213,6 +2213,11 @@ def download():
 &lt;!-- for Brython 暫時不用
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;style&gt;
+img{
+    border:3px solid black;
+}
+&lt;/style&gt;
 --&gt;
 '''
 
@@ -2266,6 +2271,11 @@ init_mathjax();
 &lt;!-- for Brython 暫時不用
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;style&gt;
+img{
+    border:3px solid black;
+}
+&lt;/style&gt;
 --&gt;
 '''
 

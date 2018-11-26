@@ -2059,6 +2059,11 @@ def syntaxhighlight():
 <!-- for Brython 暫時不用
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<style>
+img{
+    border:3px solid black;
+}
+</style>
 -->
 '''
 
@@ -2111,6 +2116,11 @@ init_mathjax();
 <!-- for Brython 暫時不用
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+<style>
+img{
+    border:3px solid black;
+}
+</style>
 -->
 '''
 

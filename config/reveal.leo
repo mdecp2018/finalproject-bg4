@@ -36,6 +36,27 @@
 <v t="leo.20190104020650.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20190104020650.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20190104023235.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104023235.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104023454.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104023454.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104023456.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104023456.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104024717.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104024717.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104024952.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104024952.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104024953.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104024953.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190104030200.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190104030200.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -286,8 +307,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 尋找五位分組組員
 &lt;small&gt;
 [說明如何利用 Github Classroom 進行期末分組專題倉儲的設定](https://www.youtube.com/watch?v=4i1D5rIrkAM)
-&lt;/small&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=4i1D5rIrkAM" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20190104020650.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -299,6 +319,121 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20190104020650.2"># WEEK 10
+[說明如何利用新版的 P37-18.11 中的 eric6 開發視窗程式](https://www.youtube.com/watch?v=iOBPj72CW2A&amp;t=5s)
+&lt;/small&gt;
+
+
+
+</t>
+<t tx="leo.20190104023235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104023235.2"># WEEK 11
+利用 Heroku 雲端與 Github 倉儲內容保持自動同步
+&lt;/small&gt;
+
+[教學影片](https://www.youtube.com/watch?v=2QDqaj_oF3U&amp;t=19)
+</t>
+<t tx="leo.20190104023454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104023454.2"># WEEK 12
+由各組開發期末專題
+
+
+</t>
+<t tx="leo.20190104023456.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104023456.2"># WEEK 13
+閱讀遊戲程式並修改
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190104024717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104024717.2"># WEEK 14
+利用 MikTeX 與 Pandoc建立各組的專案報告
+&lt;/small&gt;
+
+[教學影片](https://www.youtube.com/watch?v=2833erZxUAM&amp;t=104s)
+&lt;/small&gt;
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w14.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190104024952.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104024952.2"># WEEK 15
+利用 Brython 建立網際程式
+&lt;/small&gt;
+
+[教學影片](https://www.youtube.com/watch?v=nEZo_QPwgto)
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg8/images/%E5%90%8D.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190104024953.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104024953.2"># WEEK 16
+說明如何在 CMSimfly 頁面中, 直接執行 Ggame 範例.
+&lt;/small&gt;
+
+[教學影片](https://www.youtube.com/watch?v=KZnCu1Sq1vo)
+&lt;/small&gt;
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg9/images/p37_13-48-55.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190104030200.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190104030200.2"># 期末自評
+40723211 李昌隆(期末自評成績：70)
+
+40723233 陳謙諭(期末自評成績：75)
+
+40723234 曾信誠(期末自評成績：75)
+
+40723237 黃俊翔(期末自評成績：70)
+
+40723241 葉承叡(期末自評成績：70)
+
+40723244 劉冠志(期末自評成績：80)
 
 </t>
 </tnodes>

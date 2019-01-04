@@ -293,7 +293,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 40723241 葉承叡(期中自評成績：70)
 
-40723244 劉冠志(期中自評成績：80)</t>
+40723244 劉冠志(期中自評成績：80)
+
+</t>
 <t tx="leo.20190104020518.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -365,7 +367,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190104023456.2"># WEEK 13
 閱讀遊戲程式並修改
-&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w13-rabbit2.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190104024717.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -381,7 +385,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 [教學影片](https://www.youtube.com/watch?v=2833erZxUAM&amp;t=104s)
 &lt;/small&gt;
-&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w14.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg7/picture/w14.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190104024952.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -396,7 +402,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [教學影片](https://www.youtube.com/watch?v=nEZo_QPwgto)
-&lt;iframe src="https://mdecp2018.github.io/finalproject-bg8/images/%E5%90%8D.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg8/images/%E5%90%8D.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190104024953.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -412,7 +420,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 [教學影片](https://www.youtube.com/watch?v=KZnCu1Sq1vo)
 &lt;/small&gt;
-&lt;iframe src="https://mdecp2018.github.io/finalproject-bg9/images/p37_13-48-55.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://mdecp2018.github.io/finalproject-bg9/images/p37_13-48-55.png" width="1920" height="1080" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190104030200.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -433,7 +443,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 40723241 葉承叡(期末自評成績：70)
 
-40723244 劉冠志(期末自評成績：80)
+40723244 劉冠志(期末自評成績：90)
 
 </t>
 </tnodes>
